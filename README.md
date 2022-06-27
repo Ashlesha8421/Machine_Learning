@@ -4,4 +4,4 @@
 ### 3.Machine Learning Algorithum.
 ### 4.Advanced Techniques.
 
-(Note:)
+
